@@ -14,7 +14,7 @@ function Footer() {
         </a>
         and is open sourced on
         <a
-          href="https://github.com/mayaclaros/mc-lyte"
+          href="https://github.com/mayaclaros/weather-react-app"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -22,7 +22,7 @@ function Footer() {
         </a>
         and hosted by
         <a
-          href="https://mclyte.netlify.app/"
+          href="https://maya-react-weather-app.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
