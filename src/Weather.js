@@ -55,6 +55,18 @@ export default function Weather() {
           <input type="submit" value="Search" />
         </form>
       </div>
+      
+       <footer>
+        <p>
+          {" "}
+          This project was coded with 💜 by
+          <a href="https://www.justmeomaya.com">Maya Claros</a>
+          and is open sourced on
+          <a href="https://github.com/mayaclaros/mc-lyte">GitHub</a>
+          and hosted by
+          <a href="https://mclyte.netlify.app/">Netlify</a>
+        </p>
+      </footer>
     );
   }
 }
