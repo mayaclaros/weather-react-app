@@ -3,6 +3,7 @@ import "./index.css";
 
 import Weather from "./Weather.js";
 import "./App.css";
+import Footer from "./Footer.js";
 
 function App() {
   return (
